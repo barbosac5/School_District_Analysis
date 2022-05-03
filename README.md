@@ -41,8 +41,8 @@ Original Reading Scores:
 
 With the changes to the Thomas High School ninth grade scores to NaN, there was not much of a drastic change between the scores. The scores only changed by less than 2%
 
-* inset pictures here
-
+![Math Scores Adjusted](./School_District_Analysis/Resources/Math_Scores_Adjusted.png)
+![Reading Scores Adjusted](./School_District_Analysis/Resources/Reading_Scores_Adjusted.png)
 
 #### Scores by School Spending 
   According to the graphs there were not that big of changes. The percentages were around the same with barely any changes.
