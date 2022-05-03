@@ -47,7 +47,8 @@ With the changes to the Thomas High School ninth grade scores to NaN, there was 
 #### Scores by School Spending 
   According to the graphs there were not that big of changes. The percentages were around the same with barely any changes.
 
-* insert pictures here
+![School Spending Original](./School_District_Analysis/School_Spending_Original.png)
+![School Spending Adjusted](./School_District_Analysis/School_Spending_Adjusted.png)
 
 #### Scores by School Size
   Thomas High School is classified as a "Medium" sized school. Despite the changes made to the grades, there were nominal changes to these graphs.
