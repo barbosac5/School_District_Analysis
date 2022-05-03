@@ -10,13 +10,14 @@
   When we found out Thomas High School showed evidence of academic dishonesty, we had to essentailly restart the analysis by replacing the grades for Thomas High School with "NaN" and start again. 
   - At the end of the day when comparing the origonal analysis and the adjusted analysis, despite the 9th graders for Thomas High School having a grade value of NaN due to dishonesty, the summaries did not change much. What I saw was that there was less than a 1% chance between the average scores for the students. For example,in the origonal analysis, the percentage of students passing reading was 85.8% and in the adjusted analysis, the scores were 86%. This slight raise can be due to the fact that the 9th graders at Thomas High School did not do so well collectively in the reading of standardized tests. There was also another small change in the overall percentage of students passing. In the origional anlaysis, the overall percentage for students passing was 65.2% and in the adjusted analysis, the score was lowered to 65%. Even though replaceing the scores of THS with NaN didnt change much, the overall scores did change. 
 
-![Original_School_Summary](./School_District_Analysis/Resources/Original_School_Summary.png)
-![Adjusted_School_Summary](./School_District_Analysis/Resources/Adjusted_School_Summary.png)
+![School_Analysis_Original](./School_District_Analysis/Resources/School_Analysis_Original.png)
+![School_Analysis_Adjusted](./School_District_Analysis/Resources/School_Analysis_Adjusted.png)
 
 ### School Summary 
   Looking at the school school summary, the scores of Thomas High School were drastically changed. In the original school summary, the largest changes can be seen in the percentages across the board. For example, the original passing percentages for math, reading and overall are 93.27%, 93.27%, 90.95% respectively. When looking at the adjusted scores, we see the biggest change in where the scores go from the nineties to the mid and high sixties. The percentages for math, reading, and overall were 66.91%, 69.66%, and 65.07%. This drastic change in the scores has to be from the academic dishonesty we found out about in the beginning. 
 
-* insert pictures here
+![Original_School_Summary](./School_District_Analysis/Resources/Original_School_Summary.png)
+![Adjusted_School_Summary](./School_District_Analysis/Resources/Adjusted_School_Summary.png)
 
 ### How does replacing the ninth grader's math and reading scores affect Thomas High School's performance?
   Replaceing the nith grader's scores with "NaN" changed the standing of THS drastically. Originally, the school was at the top 5 best schools but with the adjested analysis, Thomas High School ended up being at the bottom five schools. 
