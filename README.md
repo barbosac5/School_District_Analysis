@@ -53,11 +53,14 @@ With the changes to the Thomas High School ninth grade scores to NaN, there was 
 #### Scores by School Size
   Thomas High School is classified as a "Medium" sized school. Despite the changes made to the grades, there were nominal changes to these graphs.
 
-* insert pictures here
-
+![School Size Original](./School_District_Analysis/School_Size_Original.png)
+![School Size Original](./School_District_Analysis/School_Size_Adjusted.png)
 
 #### Scores by School Type
   Thomas High School is a charter school and there were small changes but only round up percentages.
+  
+![School Type Original](./School_District_Analysis/School_Type_Original.png)
+![School Type Adjusted](./School_District_Analysis/School_Type_Adjusted.png)
 
 # Summary 
 1. Overall passing rate of Thomas High School was drastically lowered from 90% to 65% due to the academic dishonesty.
