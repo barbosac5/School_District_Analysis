@@ -17,7 +17,54 @@
 
 * insert pictures here
 
-# Summary 
+### How does replacing the ninth grader's math and reading scores affect Thomas High School's performance?
+  Replaceing the nith grader's scores with "NaN" changed the standing of THS drastically. Originally, the school was at the top 5 best schools but with the adjested analysis, Thomas High School ended up being at the bottom five schools. 
+  
+* insert pictures here
 
+### How does replacing the ninth-grade scores affect...:
+
+#### Math and reading scored by grade:
+Oriognally, the math and reading scores for all grades at Thomas High School is in the 80's
+  - 9th Grade Math Scores: 83.7
+  - 10th Grade Math Scores: 83.7
+  - 11th Grade Math Scores: 83.6
+  - 12th Grade Math Scores: 83.8
+Original Reading Scores:
+  - 9th Grade: 83.6
+  - 10th Grade: 83.1
+  - 11th Grade: 83.5
+  - 12th Grade: 83.5
+
+With the changes to the Thomas High School ninth grade scores to NaN, there was not much of a drastic change between the scores. The scores only changed by less than 2%
+
+* inset pictures here
+
+
+#### Scores by School Spending 
+  According to the graphs there were not that big of changes. The percentages were around the same with barely any changes.
+
+* insert pictures here
+
+#### Scores by School Size
+  Thomas High School is classified as a "Medium" sized school. Despite the changes made to the grades, there were nominal changes to these graphs.
+
+* insert pictures here
+
+
+#### Scores by School Type
+  Thomas High School is a charter school and there were small changes but only round up percentages.
+
+# Summary 
+1. Overall passing rate of Thomas High School was drastically lowered from 90% to 65% due to the academic dishonesty.
+2. Due to the academic dishonesty from Thomas High School, their overall ranking was lowered from the near top of the schools to close to the bottom.
+3. As per the reuqest, the THS ninth grade scores were replaced and are now recorded as "NaN" due to dishonesty.
+4. There were sight shifts to all the scores due to the omission of scores from Thomas High School. 
 
 # Resources 
+- Anaconda
+- Conda
+- Jupyter Notebook
+- Python
+- Pandas
+- ipyKernel
