@@ -22,7 +22,8 @@
 ### How does replacing the ninth grader's math and reading scores affect Thomas High School's performance?
   Replaceing the nith grader's scores with "NaN" changed the standing of THS drastically. Originally, the school was at the top 5 best schools but with the adjested analysis, Thomas High School ended up being at the bottom five schools. 
   
-* insert pictures here
+![Top Schools](./School_District_Analysis/Resources/Top_Schools_Original.png)
+![Bottom Schools](./School_District_Analysis/Resources/Bottom_Schools_Adjusted.png)
 
 ### How does replacing the ninth-grade scores affect...:
 
