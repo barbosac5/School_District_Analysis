@@ -63,7 +63,8 @@ With the changes to the Thomas High School ninth grade scores to NaN, there was 
 ![School Type Adjusted](./School_District_Analysis/School_Type_Adjusted.png)
 
 # Summary 
-1. Overall passing rate of Thomas High School was drastically lowered from 90% to 65% due to the academic dishonesty.
+Based on the adjusted school analysis, I noticed four changes:
+1. The overall passing rate of Thomas High School was drastically lowered from 90% to 65% due to the academic dishonesty.
 2. Due to the academic dishonesty from Thomas High School, their overall ranking was lowered from the near top of the schools to close to the bottom.
 3. As per the reuqest, the THS ninth grade scores were replaced and are now recorded as "NaN" due to dishonesty.
 4. There were sight shifts to all the scores due to the omission of scores from Thomas High School. 
