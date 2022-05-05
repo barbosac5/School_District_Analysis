@@ -35,6 +35,9 @@
 ##### Adjusted
 ![Bottom Schools](./School_District_Analysis/Resources/Bottom_Schools_Adjusted.png)
 
+##### 9th Grade NaN
+![9th_Grade_NaN](./ninth_grade_NaN.png)
+
 ### How does replacing the ninth-grade scores affect...:
 
 #### Math and reading scored by grade:
@@ -58,7 +61,7 @@ With the changes to the Thomas High School ninth grade scores to NaN, there was 
 ![Reading Scores Adjusted](./School_District_Analysis/Reading_Scores_Adjusted.png)
 
 #### Scores by School Spending 
-  Thomas High School was in the $630-$644 spending range. The percentages in the adjusted analysis saw nominal changes.
+Thomas High School was in the $630-$644 spending range. The percentages in the adjusted analysis saw nominal changes.
 
 ##### Original
 ![School Spending Original](./School_District_Analysis/School_Spending_Original.png)
@@ -67,7 +70,7 @@ With the changes to the Thomas High School ninth grade scores to NaN, there was 
 ![School Spending Adjusted](./School_District_Analysis/School_Spending_Adjusted.png)
 
 #### Scores by School Size
-  Thomas High School is classified as a "Medium" sized school. Despite the changes made to the grades, there were nominal changes to these tables.
+Thomas High School is classified as a "Medium" sized school. Despite the changes made to the grades, there were nominal changes to these tables.
 
 ##### Original
 ![School Size Original](./School_District_Analysis/School_Size_Original.png)
@@ -76,7 +79,7 @@ With the changes to the Thomas High School ninth grade scores to NaN, there was 
 ![School Size Original](./School_District_Analysis/School_Size_Adjusted.png)
 
 #### Scores by School Type
-  Thomas High School is a charter school based on the table. There were small changes that cosisted of rounded up percentages.
+Thomas High School is a charter school based on the table. There were small changes that cosisted of rounded up percentages.
   
 ##### Original
 ![School Type Original](./School_District_Analysis/School_Type_Original.png)
@@ -88,13 +91,11 @@ With the changes to the Thomas High School ninth grade scores to NaN, there was 
 Based on the adjusted school analysis, I noticed four changes:
 1. The overall passing rate of Thomas High School was drastically lowered from 90% to 65% due to the academic dishonesty.
 2. Due to the academic dishonesty from Thomas High School, their overall ranking was lowered from the near top of the schools to close to the bottom.
-3. As per the reuqest, the THS ninth grade scores were replaced and are now recorded as "NaN" due to dishonesty. BEcause of this we do not have accurate scores for their school grade specifically.
+3. As per the reuqest, the THS ninth grade scores were replaced and are now recorded as "NaN" due to dishonesty. Due to this, we do not have accurate scores for their school grade specifically.
 4. There were sight shifts to all the scores due to the omission of scores from Thomas High School. The only drastic change was the overall passing rate for THS while othe schools stayed the same.
 
 # Resources 
-- Anaconda
-- Conda
-- Jupyter Notebook
-- Python
-- Pandas
-- ipyKernel
+- Anaconda version 2.1.1
+- Jupyter Notebook version 6.4.5
+- Python version 3.9.7
+- Pandas version 1.3.4
